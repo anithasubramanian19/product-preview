@@ -142,6 +142,7 @@ button img{
     .desktop{
         display: block;
         height: 300px;
+        border-radius:9px;
         /* width: 300px; */
     }
     strike{
